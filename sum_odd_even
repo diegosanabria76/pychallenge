@@ -24,3 +24,5 @@ def suma(n,t):
         return suma
     elif t == 'o' :
         return sum_odd
+    else:
+        return -1
